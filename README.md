@@ -7,7 +7,7 @@
 目录
 
 * 基础知识
-    * [HTML语义以及命名规范]
+    * [HTML语义以及命名规范](https://github.com/caixiaojia/css-adv-sum/blob/master/chapter1/index.md)
     
     
 * 选择器
