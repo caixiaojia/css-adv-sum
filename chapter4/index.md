@@ -10,7 +10,7 @@
     
 #### 圆角框
 
-* (固定宽度的圆角框)[]
+* (固定宽度的圆角框)[https://github.com/caixiaojia/css-adv-sum/blob/master/chapter4/fix-radius.html]
 
     
 * 可变宽度的圆角框
